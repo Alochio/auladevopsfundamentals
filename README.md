@@ -1,5 +1,5 @@
 # Projetos do curso Aula Devops Fundamentals
 
-codigoTerraform: recurso Terraform para a criação no Azure
+##Projeto concluído conforme solicitado no curso
 
-website: site html para ser utilizado como teste no Git
+Neste diretório de encontra o código terraform utilizado no bootcamp de DevOps da DIO.
